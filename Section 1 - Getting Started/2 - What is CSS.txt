@@ -1,0 +1,2 @@
+HTML -> The Structure of the page
+CSS -> The Styling of the page
